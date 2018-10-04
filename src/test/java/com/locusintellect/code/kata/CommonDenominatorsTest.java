@@ -1,6 +1,6 @@
-package com.ihsmarkit.code.kata;
+package com.locusintellect.code.kata;
 
-import static com.ihsmarkit.code.kata.CommonDenominators.convertFracs;
+import static com.locusintellect.code.kata.CommonDenominators.convertFracs;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.core.Is.is;
 

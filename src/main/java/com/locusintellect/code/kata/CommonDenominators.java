@@ -1,4 +1,4 @@
-package com.ihsmarkit.code.kata;
+package com.locusintellect.code.kata;
 
 import static java.lang.String.format;
 import static java.lang.String.join;

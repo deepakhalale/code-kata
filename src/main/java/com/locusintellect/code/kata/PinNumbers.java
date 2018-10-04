@@ -1,4 +1,4 @@
-package com.ihsmarkit.code.kata;
+package com.locusintellect.code.kata;
 
 import static com.google.common.collect.ImmutableList.of;
 import static com.google.common.collect.Lists.cartesianProduct;
