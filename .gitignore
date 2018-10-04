@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Maven template
+target/
+
+# User-specific stuff
+.idea/
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
